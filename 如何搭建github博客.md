@@ -1,4 +1,4 @@
-我们搭建github博客采用hexo来搭建静态博客
+搭建github博客采用hexo来搭建静态博客
 
 参考资料[https://wsgzao.github.io/post/hexo-guide/#了解Hexo]
 
@@ -25,4 +25,11 @@ $ npm install
 要点:1.首先 git clone 下来主题 
 2.重点的重点：需要配置 _config.yml 需要指定theme的来源 
 然后要执行 这个命令 hexo clean && hexo s 不要忘记
+
+在github上建立一个仓库 username.github.io为仓库名 
+然后切换到所在的博客的目录下使用命令hexo g 生成public文件夹 
+
+【重点】特别注意生成了public文件夹之后 你需要将public文件夹下面的所有的静态资源文件放入到刚才建立的仓库下去 然后提交到github仓库上去 
+访问的URL[weipingQin.github.io]
+
 
