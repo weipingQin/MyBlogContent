@@ -1,4 +1,4 @@
-IM使用技巧:
+VIM使用技巧:
 1.插入字符 {i a o O I A}
 {i 在光标左侧插入正文
  a 在光标右侧插入正文
@@ -11,3 +11,4 @@ IM使用技巧:
 
 3.搜索模式: /  【使用/进行搜索】
 
+相关资料补充:使用VIM打造IDE[http://blog.csdn.net/wooin/article/details/1858917]
