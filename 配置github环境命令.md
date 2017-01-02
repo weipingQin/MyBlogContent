@@ -11,5 +11,8 @@ ssh-add ~/.ssh/id_github_rsa
 4.执行命令 看是否识别 
 ssh -T git@github.com
 
-出现 welcome to Git@github 表示成功 
+5.出现 welcome to Git@github 表示成功 
+
+6.其他资料[http://www.jianshu.com/p/fbbf6efb50ba]
+
 
