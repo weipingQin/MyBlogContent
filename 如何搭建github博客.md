@@ -32,4 +32,5 @@ $ npm install
 【重点】特别注意生成了public文件夹之后 你需要将public文件夹下面的所有的静态资源文件放入到刚才建立的仓库下去 然后提交到github仓库上去 
 访问的URL[weipingQin.github.io]
 
+http://moxfive.coding.me/yelee/1.Getting-Started/i18n.html
 
