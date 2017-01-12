@@ -12,3 +12,6 @@ VIM使用技巧:
 3.搜索模式: /  【使用/进行搜索】
 
 相关资料补充:使用VIM打造IDE[http://blog.csdn.net/wooin/article/details/1858917]
+
+4.跳转到文章的最后一行操作:shift+G 跳转最后一行,按下O在最后一行的下一行插入 
+
