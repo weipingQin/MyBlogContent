@@ -16,3 +16,13 @@ ssh -T git@github.com
 6.其他资料[http://www.jianshu.com/p/fbbf6efb50ba]
 
 
+FAQ:
+1.配置多个git账号的时候出现这问题:git:could not open a connection to your authentication agent问题的解决（重新绑定私钥）
+
+解决方法:
+
+### 1> ssh-agent bash 
+### 2> ssh-add /c/Users/wqin/.ssh/id_github_rsa
+
+
+
