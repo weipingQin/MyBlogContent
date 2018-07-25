@@ -9,7 +9,9 @@
 ```
 
 ######3.非常重要的一点:将本地的密钥识别 
+
 ```
+	eval $(ssh-agent -s)
 	ssh-add ~/.ssh/id_github_rsa
 ```
 
